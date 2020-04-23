@@ -53,15 +53,15 @@ h1 {
   background-color: rgba(0,0,0,0.3);
 }
 
-.name1{
+.n1{
   background-color: #00B6C1;
 }
 
-.name2{
+.n2{
   color: white;
   background-color: #FF0000;
 }
-.name3{
+.n3{
   background-color: #FFFF00;
 }
 
@@ -85,7 +85,7 @@ h1 {
     margin-left: -10px;
     width: 100%;
   }
-  .name3{
+  .n3{
     margin-right: 65px;
     width: 100px;
   }

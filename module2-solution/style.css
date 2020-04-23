@@ -68,20 +68,20 @@ h1 {
 
 /********** Large devices only **********/
 @media (min-width: 992px) {
-  .col-lg-4 {
+  .col4 {
   	float: left;
     width: 33.33%;
   }
 }
 /********** Medium devices only **********/
 @media (min-width: 768px) and (max-width: 991px) {
-  .col-md-6,.col-md-12 {
+  .col6,.col12 {
     float: left;
   }
-  .col-md-6 {
+  .col6 {
     width: 50%;
   }
-  .col-md-12 {
+  .col12 {
     margin-left: -10px;
     width: 100%;
   }
@@ -92,7 +92,7 @@ h1 {
 }
 
 @media (min-width: 0px) and (max-width: 767px) {
-  .col-sm-12 {
+  .colsm12 {
   	float: left;
     width: 100%;
   }

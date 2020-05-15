@@ -1,20 +1,3 @@
-/*
-Solution of assignment 4:
-
-Expected output:
-
-Hello Yaakov
-Good Bye John
-Good Bye Jen
-Good Bye Jason
-Hello Paul
-Hello Frank
-Hello Larry
-Hello Paula
-Hello Laura
-Good Bye Jim
-*/
-
 (function() {
     var names = ["krishna", "Jeevan", "Jain", "Jamal", "Lakshmi", "Gokul", "Vinay", "Chinnu", "Samba", "Jishnu"];
     for (var i = 0; i < names.length; i++) {
